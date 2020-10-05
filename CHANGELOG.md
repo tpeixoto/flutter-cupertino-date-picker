@@ -1,3 +1,7 @@
+## 1.0.27
+
+Replaced DiagnosticableMixin with DiagnosticableTreeMixin due to Flutter updates.
+
 ## 1.0.26+2
 
 - Update pt_br language.
